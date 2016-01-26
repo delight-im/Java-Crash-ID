@@ -46,6 +46,7 @@ Caused by: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:305)
 	... 5 more
 ```
+
 ## Contributing
 
 All contributions are welcome! If you wish to contribute, please create an issue first so that your feature, problem or question can be discussed.
